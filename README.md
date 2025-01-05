@@ -276,7 +276,3 @@ ORDER BY Recency DESC, Monetary DESC;
 - On the other hand, customers with a score of 1 and 2 are most likely churned, and any marketing plan may not be as effective in re-engaging them. By focusing on the right customer groups, the marketing team can optimize their efforts and achieve better results.
 
 ------------------------------------------------------
-
-## 🔗 Get In Touch
-<a href="mailto:mustafaa7med@gmail.com"><img alt="Gmail" title="Moustafa Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaa7med)
